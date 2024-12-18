@@ -1,0 +1,6 @@
+{
+  "include": ["app"],
+  "exclude": ["tests", "venv"],
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": true
+}
